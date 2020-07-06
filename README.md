@@ -5,4 +5,4 @@ This website is based on the tutorial which is found [here](https://www.digitalo
 
 An improvement is the page is containerized in docker. For running the mini blog post:
 
-``` docker build -t app . && docker run -p 5000:5000 app ```
+``` docker-compose up ```
