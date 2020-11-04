@@ -1,5 +1,5 @@
 # flask-web
-a simple web page using bootstrap and flask. This web content is based on the tutorial which is found [here](https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3). An improvement is the page is containerized in docker. 
+a simple web blog using bootstrap front end, python flask server and sqlite database backend. The app is containerized in dockerfor deployment. 
 </br> 
 
 ## For running the mini blog post:
