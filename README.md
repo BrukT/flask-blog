@@ -1,5 +1,5 @@
 # flask-web
-a simple blogging website using bootstrap front end, python flask server and sqlite database backend. The app is containerized in dockerfor deployment. 
+a simple blogging website using bootstrap front end, python flask server and sqlite database backend. The app is containerized in docker for deployment. 
 </br> 
 
 ## For running the mini blog post:
